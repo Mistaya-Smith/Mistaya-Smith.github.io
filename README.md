@@ -1,5 +1,4 @@
-## Sense of Pace: How the Placemaking Practice of Distance Running Impacts Outdoor Recreation Land Use Planning
-
+## Sense of Pace: How the Placemaking Practice of Distance Running Impacts Outdoor Recreation Land Use Planning  
 
 Distance running demands sensory awareness of surroundings. This awareness joins people to place through physical connection with the land, the creation of emotional social bonds, and the repetition of routine. In this regard, distance running serves as an individual placemaking practice, which lends itself to observations and suggestions that can inform land use planning.  
 
