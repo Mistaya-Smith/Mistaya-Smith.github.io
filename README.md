@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sense of Pace: How the Placemaking Practice of Distance Running Impacts Outdoor Recreation Land Use Planning
 
 You can use the [editor on GitHub](https://github.com/Mistaya-Smith/Mistaya-Smith.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
