@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_OutdoorRecreationAreas_3 = function(feature, resolution){
+var style_SuggestedBikePath_6 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
@@ -16,20 +16,12 @@ var style_OutdoorRecreationAreas_3 = function(feature, resolution){
     var textAlign = "left";
     var offsetX = 8;
     var offsetY = 3;
-    var placement = 'point';
+    var placement = 'line';
     if ("" !== null) {
         labelText = String("");
     }
     var style = [ new ol.style.Style({
-        image: new ol.style.Icon({
-                  imgSize: [579.997, 579.997],
-                  scale: 0.0327587901316731,
-                  anchor: [9, 9],
-                  anchorXUnits: "pixels",
-                  anchorYUnits: "pixels",
-                  rotation: 0.0,
-                  src: "styles/walker.svg"
-            }),
+        stroke: new ol.style.Stroke({color: 'rgba(0,0,0,1.0)', lineDash: [10,10], lineCap: 'round', lineJoin: 'round', width: 1}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)

@@ -1,6 +1,6 @@
 var size = 0;
 var placement = 'point';
-function categories_TAMIntersections_7(feature, value, size, resolution, labelText,
+function categories_TAMIntersections_8(feature, value, size, resolution, labelText,
                        labelFont, labelFill, bufferColor, bufferWidth,
                        placement) {
                 switch(value.toString()) {case 'High':
@@ -31,7 +31,7 @@ case 'Low':
     })];
                     break;}};
 
-var style_TAMIntersections_7 = function(feature, resolution){
+var style_TAMIntersections_8 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
@@ -51,7 +51,7 @@ var style_TAMIntersections_7 = function(feature, resolution){
         labelText = String("");
     }
     
-var style = categories_TAMIntersections_7(feature, value, size, resolution, labelText,
+var style = categories_TAMIntersections_8(feature, value, size, resolution, labelText,
                           labelFont, labelFill, bufferColor,
                           bufferWidth, placement);
 
