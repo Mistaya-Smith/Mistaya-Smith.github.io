@@ -1,37 +1,11 @@
 ## Sense of Pace: How the Placemaking Practice of Distance Running Impacts Outdoor Recreation Land Use Planning
 
-You can use the [editor on GitHub](https://github.com/Mistaya-Smith/Mistaya-Smith.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Distance running demands sensory awareness of surroundings. This awareness joins people to place through physical connection with the land, the creation of emotional social bonds, and the repetition of routine. In this regard, distance running serves as an individual placemaking practice, which lends itself to observations and suggestions that can inform land use planning.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project combines cartography with autoethnographic research to study the placemaking practice of distance running through a humanistic approach. I apply placemaking and sports geography literature to a case study on distance running and sense of place in Middlebury, Vermont. Middlebury is a “must-see destination” for outdoor recreators as it provides opportunities for “hiking, biking, golf, kayaking, fly fishing, bird watching, alpine and cross-country skiing”, as posed by the first paragraph on the state of Vermont’s Middlebury Tourism website. While Middlebury is a haven for outdoor enthusiasts, its outdoor amenities are neither equitably distributed, nor safely accessible to pedestrians. Based on observations made while running every public street in Middlebury, I suggest land use planning decisions that improve the accessibility and equity of Middlebury, Vermont’s outdoor recreation.  
 
-### Markdown
+### OpenLayers Webmap  
+This [webmap] offers an opportunity for the public to understand the significance of sense of place in land use planning. Hopefully, this increased awareness will impact resident engagement and thoughtfulness toward land use planning and policy in the wake of Middlebury's increasing population and development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mistaya-Smith/Mistaya-Smith.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Sense of Pace Paper
+This [research paper] outlines the arguments, methods, and results in studying how the placemaking practice of distance running can impact land use planning decisions.  
