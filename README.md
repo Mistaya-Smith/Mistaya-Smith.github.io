@@ -9,4 +9,4 @@ This project combines cartography with autoethnographic research to study the pl
 This [webmap](https://Mistaya-Smith.github.io/Map/index.html) offers an opportunity for the public to understand the significance of sense of place in land use planning. Hopefully, this increased awareness will impact resident engagement and thoughtfulness toward land use planning and policy in the wake of Middlebury's increasing population and development.
 
 ### Sense of Pace Paper
-This [research paper](https://Mistaya-Smith.github.io/Paper/SenseofPacePaper.pdf) outlines the arguments, methods, and results in studying how the placemaking practice of distance running can impact land use planning decisions.  
+This [research paper](https://Mistaya-Smith.github.io/Paper/SenseofPacePaper.pdf) outlines the arguments, methods, and results in studying how the placemaking practice of distance running can impact land use planning decisions. To do so it includes five choropleth maps outlining the factors that impact sense of place development in Middlebury. 
